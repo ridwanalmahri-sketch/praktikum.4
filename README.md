@@ -95,7 +95,7 @@ def tambah_data():
 if __name__ == "__main__":
     tambah_data()
 
-PS C:\Users\Projek Muda\Downloads\pytthon> & "C:/Users/Projek Muda/AppData/Local/Python/pythoncore-3.14-64/python.exe" "c:/Users/Projek Muda/Downloads/pytthon/6.py"
+
 ==================================================
 PROGRAM INPUT DATA MAHASISWA
 ==================================================
